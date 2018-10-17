@@ -18,5 +18,6 @@ public class Test {
         NowApiWeather nowAipWeather = WeatherUtil.getNowAipWeather("2", "37304", "c0c89fd4c13dfe5816186052fd0a185c");
         System.out.println(nowAipWeather);
         System.out.println("Test.main");
+        //测试
     }
 }
